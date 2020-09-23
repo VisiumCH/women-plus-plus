@@ -4,7 +4,7 @@ This repository contains the code and models for the Artificial Curiosity Visium
 
 ## Open the Workshop in Google Colab
 
-To run the notebook in Colab, click here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thibaultcalvayrac/AMLD_artificial_curiosity)
+To run the notebook in Colab, click here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VisiumCH/women-plus-plus)
 
 ## Educational Resources & Bibliography
 
