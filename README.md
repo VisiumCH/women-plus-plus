@@ -6,6 +6,8 @@ This repository contains the code and models for the Artificial Curiosity Visium
 
 To run the notebook in Colab, click here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VisiumCH/women-plus-plus)
 
+To see the output without running it, click here -> [![HTML](https://img.shields.io/badge/website-up-green.svg)](https://visiumch.github.io/women-plus-plus/)
+
 ## Educational Resources & Bibliography
 
 * [OpenAI Gym toolkit to build environments](https://gym.openai.com)
